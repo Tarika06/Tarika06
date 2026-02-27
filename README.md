@@ -4,16 +4,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=C2185B&center=true&vCenter=true&width=620&lines=Building+systems+that+learn%2C+adapt%2C+and+scale;Not+just+execute.;ML+%7C+Distributed+Computing+%7C+Backend+Engineering;Applied+AI+%7C+Intelligent+System+Design)](https://git.io/typing-svg)
-
-</div>
-
-<br/>
-
 ---
 
 ### 🎯 Professional Focus
