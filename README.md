@@ -6,11 +6,6 @@
 
 <br/>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C9BF7&center=true&vCenter=true&width=500&lines=C+%2F+C%2B%2B+%2F+Java+Programmer;Web+Developer+%F0%9F%8C%90;Python+Enthusiast+%F0%9F%90%8D;AI+%2F+ML+%2F+DL+Explorer+%F0%9F%A4%96;Always+building+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
