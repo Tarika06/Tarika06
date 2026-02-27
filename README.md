@@ -6,15 +6,15 @@
 
 ---
 
-### 🎯 Professional Focus
-
-> *Building systems that learn, adapt, and scale — not just execute.*
+Building systems that learn, adapt, and scale — not just execute.*
 
 ---
 
 ### 💡 About
 
-Computer Science student building intelligent systems at the intersection of **Machine Learning**, **Distributed Computing**, **Backend Engineering**, and **Applied AI**.
+Jack of all trades — and actively working on mastering a few.
+
+Computer Science student building intelligent systems at the intersection of **Machine Learning**, **Artificial Intelligence**, **Generative AI**, **Natural Language Processing**, **Backend Engineering**, and **Applied AI**.
 
 Strong interest in designing systems that are not just functional — but **adaptive**, **scalable**, and **decision-aware**.
 
@@ -52,6 +52,8 @@ Strong interest in designing systems that are not just functional — but **adap
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-C2185B?style=flat-square&logo=pytorch&logoColor=white)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-C2185B?style=flat-square&logo=keras&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-C2185B?style=flat-square&logo=pandas&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-C2185B?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-C2185B?style=flat-square&logo=spacy&logoColor=white)
 
 </div>
 
